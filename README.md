@@ -5,14 +5,14 @@ I work on the asset-management SaaS at EZOfficeInventory.
 
 ## Now building
 
-- **[AssetPilot](https://github.com/haadfida/assetpilot)**: an AI operations agent for IT asset inventories, a tool-using Claude agent with dependency-graph impact analysis (Rails API first, UI and MCP server in progress).
+- **[AssetPilot](https://github.com/haadfida/assetpilot)**: an AI operations agent for IT asset inventories: a tool-using Claude agent with a streaming UI, live dependency-graph impact analysis, an MCP server and evals.
 - **[psx-monitor](https://github.com/haadfida/psx-monitor)**: a Pakistan Stock Exchange dashboard with composite scoring, a sell-signal engine and optional AI news analysis. [Live](https://psx-monitor-six.vercel.app)
 
 ## Selected work
 
 | Repo | What it is | Stack |
 |---|---|---|
-| [assetpilot](https://github.com/haadfida/assetpilot) | AI agent for IT asset inventories: ask questions, take actions, run impact analysis | Rails 8, PostgreSQL, Anthropic SDK, React |
+| [assetpilot](https://github.com/haadfida/assetpilot) | AI agent for IT asset inventories: ask questions, take actions, run impact analysis | Rails 8, PostgreSQL, Anthropic SDK, React, MCP |
 | [psx-monitor](https://github.com/haadfida/psx-monitor) | PSX intelligence dashboard with scoring, macro risk and Shariah filter | React, Vite, Recharts, Supabase |
 | [cmdb-graph-rag-demo](https://github.com/haadfida/cmdb-graph-rag-demo) | Graph RAG over a CMDB with an interactive graph UI | LangGraph, Neo4j, Gemini, FastAPI, React |
 | [code-companion](https://github.com/haadfida/code-companion) | Autonomous AI pair programmer for VS Code with a multi-step planner | TypeScript, Ollama, OpenAI |
