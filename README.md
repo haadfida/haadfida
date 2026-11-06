@@ -1,6 +1,6 @@
 # Haad Fida
 
-Full-stack developer (Rails, React, React Native) building AI-native tools.
+Principal software engineer (Rails, React, React Native) building AI-native tools.
 I work on an asset-management SaaS by day.
 
 ## Now building

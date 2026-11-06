@@ -1,1 +1,1 @@
-Full-stack dev (Rails, React, React Native) building AI-native tools. Day job: asset-management SaaS. haadfida.github.io
+Principal software engineer (Rails, React, React Native) building AI-native tools. Day job: asset-management SaaS. haadfida.github.io
