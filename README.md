@@ -1,7 +1,7 @@
 # Haad Fida
 
 Full-stack developer (Rails, React, React Native) building AI-native tools.
-I work on the asset-management SaaS at EZOfficeInventory.
+I work on an asset-management SaaS by day.
 
 ## Now building
 

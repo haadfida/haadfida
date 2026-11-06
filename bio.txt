@@ -1,1 +1,1 @@
-Full-stack dev (Rails, React, React Native) building AI-native tools. Working on asset-management SaaS at EZOfficeInventory. haadfida.github.io
+Full-stack dev (Rails, React, React Native) building AI-native tools. Day job: asset-management SaaS. haadfida.github.io
